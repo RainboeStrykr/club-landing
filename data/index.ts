@@ -21,26 +21,26 @@ export const words = ["Step-into", "Explore", "Conquer"];
 //need to add actual images of the exec memebers from the notion
 export const execMembers = [
   {
-    name: "Jack English",
-    role: "Co-President",
+    name: "Arnav Puggal",
+    role: "Co-Founder and President",
     bio: "",
     image: "/jackenglish.jpeg"
   },
   {
-    name: "Ilkin Mammadli",
-    role: "Co-President",
+    name: "Abhiraj Bhowmick",
+    role: "Co-Founder and President",
     bio: "",
     image: "/ilkin.png"
   },
   {
-    name: "Revanth Reddy",
-    role: "Director Of Operations",
+    name: "Yashi Ghosh",
+    role: "Co-Founder and Director",
     bio: "",
     image: "/revanth.png"
   },
   {
-    name: "Ian Valderas",
-    role: "Secretary",
+    name: "Tanvi Kabi",
+    role: "Co-Founder and Director",
     bio: "",
     image: "/ian.jpg"
   },

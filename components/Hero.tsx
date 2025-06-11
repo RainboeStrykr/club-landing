@@ -34,8 +34,7 @@ const Hero = () => {
             <div>
               <button
                 onClick={() => setMenuOpen(!menuOpen)}
-                className="relative sm:hidden m-0 p-0 font-semibold bg-transparent border-0 text-lg uppercase tracking-wider hover:text-purple transition duration-300 hover:cursor-pointer flex flex-row items-center gap-1"
-              >
+                className="relative sm:hidden m-0 p-0 font-semibold bg-transparent border-0 text-lg uppercase tracking-wider hover:text-purple transition duration-300 hover:cursor-pointer flex flex-row items-center gap-1">
                 Menu <IconMenu2 className="inline" />
               </button>
             </div>

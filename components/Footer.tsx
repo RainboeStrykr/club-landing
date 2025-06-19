@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
                 </p>
             </div>
             <div className="left-0 right-0 font-sans text-center font-extrabold text-[300px] sm:text-[400px] absolute -bottom-24 w-full leading-none pointer-events-none footer-gradient-text">
-                GTXR
+                HRDC
             </div>
         </footer>
     );
